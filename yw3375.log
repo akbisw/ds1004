@@ -20,6 +20,28 @@ ab4309
 * | 073c44f Commit C
 |/
 * 459b518 Commit to master
+ads798
+*   35c1de9 Merge branch 'F' into G
+|\  
+| *   3c89acd Merge branch 'C' into F
+| |\  
+| | * 6409ccf Commit on C
+| * | 3d64ce4 Commit on F
+* | |   9482325 Merge branch 'D' into G
+|\ \ \  
+| * | | 78fbbd1 Commit on D
+* | | | a8ae3af Commit on G
+| |/ /  
+|/| |   
+* | |   5603132 Merge branch 'A' into B
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 6e56ad0 Commit on A
+* | 3bb6105 Commit on B
+|/  
+* 456b820 Commit on master
 yw3375
 *   e7f79cf 9th commit (5th master)
 |\  
